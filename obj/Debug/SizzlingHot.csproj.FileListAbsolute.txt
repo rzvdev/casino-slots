@@ -1,0 +1,10 @@
+D:\Projects\SizzlingHot\bin\Debug\SizzlingHot.exe.config
+D:\Projects\SizzlingHot\bin\Debug\SizzlingHot.exe
+D:\Projects\SizzlingHot\bin\Debug\SizzlingHot.pdb
+D:\Projects\SizzlingHot\obj\Debug\SizzlingHot.csprojAssemblyReference.cache
+D:\Projects\SizzlingHot\obj\Debug\SizzlingHot.Properties.Resources.resources
+D:\Projects\SizzlingHot\obj\Debug\SizzlingHot.csproj.GenerateResource.cache
+D:\Projects\SizzlingHot\obj\Debug\SizzlingHot.csproj.CoreCompileInputs.cache
+D:\Projects\SizzlingHot\obj\Debug\SizzlingHot.exe
+D:\Projects\SizzlingHot\obj\Debug\SizzlingHot.pdb
+D:\Projects\SizzlingHot\obj\Debug\SizzlingHot.Main.resources
