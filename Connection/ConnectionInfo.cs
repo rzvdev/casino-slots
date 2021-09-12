@@ -8,6 +8,9 @@ namespace SizzlingHot
 {
     class ConnectionInfo
     {
+        /// <summary>
+        /// Represent the connection info for the database
+        /// </summary>
         private static string _SERVER = "server=127.0.0.1; ";
         private static string _DATABASE = "database=netdb; ";
         private static string _USER = "user=root; ";

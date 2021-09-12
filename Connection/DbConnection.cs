@@ -16,6 +16,9 @@ namespace SizzlingHot
         private static MySqlConnection mySqlConnection;
         private static MySqlDataReader dataReader;
 
+        /// <summary>
+        /// Represent the sql connection 
+        /// </summary>
         private static SqlConnection sqlConnection;
         private static SqlDataReader sqlDataReader;
 
